@@ -1,0 +1,16 @@
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\102190248_PhamSiViet.exe.config
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\102190248_PhamSiViet.exe
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\102190248_PhamSiViet.pdb
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\EntityFramework.dll
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\EntityFramework.xml
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\102190248_PhamSiViet.csproj.AssemblyReference.cache
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\_102190248_PhamSiViet._102190248_DF.resources
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\_102190248_PhamSiViet.Form1.resources
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\_102190248_PhamSiViet.Properties.Resources.resources
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\102190248_PhamSiViet.csproj.GenerateResource.cache
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\102190248_PhamSiViet.csproj.CoreCompileInputs.cache
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\102190248_PhamSiViet.csproj.CopyComplete
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\102190248_PhamSiViet.exe
+C:\Users\nauti\source\repos\102190248_PhamSiViet\102190248_PhamSiViet\obj\Debug\102190248_PhamSiViet.pdb
